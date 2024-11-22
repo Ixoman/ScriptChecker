@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Eyu4c71lkOg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sdqsa\\source\\repos\\SqlScriptChecker\\SqlScriptChecker\\SqlScriptChecker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sdqsa\\.nuget\\packages\\antlr4.runtime.standard\\4.13.1\\antlr4.runtime.standard.4.13.1.nupkg.sha512"
+  ],
+  "logs": []
+}
